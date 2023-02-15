@@ -4,7 +4,7 @@ I'm IT Enthusiast
 
 🌱 I’m currently learning about DevOps
 
-📫 Contact me in: @pramdka (twitter)
+📫 Contact me in: [pramdka](https://twitter.com/pramdka).
 
 <!--
 **aryapramudika/aryapramudika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
